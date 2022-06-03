@@ -7,7 +7,7 @@ body {
 </style>
 </head>
 <h1> Information </h1>
-<div style="background-color:lightgrey;color:lightgrey;padding:20px;">
+<div style="background-color:lightgrey;color:black;padding:20px;">
 <table>
   <tr>
     <th> Company Name </th>
