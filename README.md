@@ -6,7 +6,7 @@ body {
 }
 </style>
 </head>
-<h2> Information </h2>
+# Information
 <div style="background-color:lightgrey;color:lightgrey;padding:20px;">
 <table>
   <tr>
