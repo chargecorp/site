@@ -7,8 +7,8 @@
     <th> Employee </th>
     <th> Number </th>
   <tr>
-    <th> Ben </th>
-    <th> QA Engineer </th>
+    <th> Employee 1 </th>
+    <th> Engineer </th>
     <th> 1 </th>
 <table>
 </div> 
