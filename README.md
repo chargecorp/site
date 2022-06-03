@@ -6,7 +6,7 @@ body {
 }
 </style>
 </head>
-<div style="background-color:deepskyblue;color:white;padding:20px;">
+<div style="background-color:deepskyblue;color:deepskyblue;padding:20px;">
 <h1> Currently working on this site! </h1>
 <table>
   <tr>
@@ -18,5 +18,5 @@ body {
     <th> Engineer </th>
     <th> 1 </th>
 <table>  
-</body>
+
 
