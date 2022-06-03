@@ -1,4 +1,4 @@
-<body style="background-color:lightskyblue;">
+<body style="background-color:grey;">
 <head>
 <style>
 body {
@@ -6,8 +6,8 @@ body {
 }
 </style>
 </head>
-<div style="background-color:deepskyblue;color:deepskyblue;padding:20px;">
-<h1> Currently working on this site! </h1>
+<h2> Information </h2>
+<div style="background-color:lightgrey;color:lightgrey;padding:20px;">
 <table>
   <tr>
     <th> Company Name </th>
@@ -17,6 +17,6 @@ body {
     <th> Employee 1 </th>
     <th> Engineer </th>
     <th> 1 </th>
-<table>  
+<table>
 
 
