@@ -1,5 +1,5 @@
 <body>
-<div style="background-color:cadetblue;color:white;padding:20px;">
+<div style="background-color:cadetblue;color:Linen;padding:20px;">
   <t> Currently working on this site! </t>
 <table>
   <tr>
