@@ -1,4 +1,6 @@
-<t> Currently working on this site! </t>
+<body>
+<div style="background-color:cadetblue;color:white;padding:20px;">
+  <t> Currently working on this site! </t>
 <table>
   <tr>
     <th> Company Name </th>
@@ -9,5 +11,7 @@
     <th> QA Engineer </th>
     <th> 1 </th>
 <table>
-<button type="button" onclick="myFunction()">Click</button>
 
+</div> 
+
+</body>
